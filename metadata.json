@@ -1,0 +1,6 @@
+{
+  "name": "Zellco Coffee",
+  "description": "Website Kafe Kopi Premium Zellco Coffee, menyajikan menu pilihan, galeri suasana kafe, petunjuk lokasi, jam operasional, dan filosofi seduhan berkualitas tinggi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
